@@ -1,0 +1,4 @@
+dump.rdb
+emailVenv
+emailModule/db.*
+emailModule/celerybeat-schedule
